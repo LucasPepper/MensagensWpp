@@ -7,11 +7,11 @@ Para download compatível com a versão do seu Chrome, acesse https://chromedriv
 
 Adeque o atributo 'self.driver' colocando o nome correto do chromedriver.
 
-# O nome da classe do 'chat_box' pode variar. Saiba qual o correto Inspecionando o elemento (F12)
+### O nome da classe do 'chat_box' pode variar. Saiba qual o correto Inspecionando o elemento (F12)
 
-# O xPath do elemento 'botao_enviar' pode variar. Saiba qual o correto Inspecionando o elemento (F12) -> Botão direito -> Copy -> Full xPath
+### O xPath do elemento 'botao_enviar' pode variar. Saiba qual o correto Inspecionando o elemento (F12) -> Botão direito -> Copy -> Full xPath
 
-### Execução
+## Execução
 
 1) Insira a mensagem a ser enviada no atributo 'self.mmensagem'
 
