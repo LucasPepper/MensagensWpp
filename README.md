@@ -13,6 +13,8 @@ Adeque o atributo 'self.driver' colocando o nome correto do chromedriver.
 
 ## Execução
 
+No arquivo 'main.py':
+
 1) Insira a mensagem a ser enviada no atributo 'self.mmensagem'.
 
 2) Insira o(s) grupo/pessoa no atributo 'self.grupos_ou_pessoas'. Exemplo: ['eu', 'mae', 'pai'] .
