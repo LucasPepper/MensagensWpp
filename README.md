@@ -7,18 +7,18 @@ Para download compatível com a versão do seu Chrome, acesse https://chromedriv
 
 Adeque o atributo 'self.driver' colocando o nome correto do chromedriver.
 
-### O nome da classe do 'chat_box' pode variar. Saiba qual o correto Inspecionando o elemento (F12)
+### O nome da classe do 'chat_box' pode variar. Saiba qual o correto Inspecionando o elemento (F12).
 
-### O xPath do elemento 'botao_enviar' pode variar. Saiba qual o correto Inspecionando o elemento (F12) -> Botão direito -> Copy -> Full xPath
+### O xPath do elemento 'botao_enviar' pode variar. Saiba qual o correto Inspecionando o elemento (F12) -> Botão direito -> Copy -> Full xPath.
 
 ## Execução
 
-1) Insira a mensagem a ser enviada no atributo 'self.mmensagem'
+1) Insira a mensagem a ser enviada no atributo 'self.mmensagem'.
 
-2) Insira o(s) grupo/pessoa no atributo 'self.grupos_ou_pessoas'. Exemplo: ['eu', 'mae', 'pai'] 
+2) Insira o(s) grupo/pessoa no atributo 'self.grupos_ou_pessoas'. Exemplo: ['eu', 'mae', 'pai'] .
 
 3) Execute o script. O navegador irá abrir na tela do WhatsApp Web, onde você terá que scannear o QR code.
 
 Os métodos 'time.sleep(x)' indicam o atraso em segundos que será aguardado.
 
-4) Aguarde a execução automatizada terminar
+4) Aguarde a execução automatizada terminar.
